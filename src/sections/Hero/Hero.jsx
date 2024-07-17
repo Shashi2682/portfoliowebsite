@@ -50,7 +50,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          An upbeat sel-motivated team player with excellent logic building and communication skills, looking forward to gain practical knowledge
+          An upbeat self-motivated team player with excellent logic building and communication skills, looking forward to gain practical knowledge
         </p>
         <a href="https://drive.google.com/file/d/1AJbFWX1jJM9GvD-BdNx9BAzFLM8GQe2Z/view?usp=drive_link" >
           <button className="hover">Resume</button>
