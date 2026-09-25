@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>SK monogram</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ee7ff"/>
+      <stop offset="1" stop-color="#9b8cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#06141f"/>
+  <rect x="4" y="4" width="56" height="56" rx="13" fill="url(#background)"/>
+  <path fill="#06141f" d="M18 18h7v17.3c0 4.6 1.5 6.7 5.2 6.7 3.8 0 5.3-2.1 5.3-6.7V18h7v17.5c0 8.2-4.1 12.4-12.3 12.4S18 43.7 18 35.5V18Z"/>
+  <path fill="#06141f" d="M47 18h-6.4l-9.9 14.4 4.2 5.8L47 18Zm-8.2 17.7-4.1 5.9L47 48h8.1L38.8 35.7Z"/>
+</svg>

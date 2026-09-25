@@ -1,0 +1,16 @@
+html {
+  background: #06141f;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
